@@ -1,0 +1,13 @@
+2021-12-31 17:03:48,813  INFO [main] BaseClass:32 - reading a property file for browser
+2021-12-31 17:03:48,816  INFO [main] BaseClass:13 - reading a property file for a keybrowser
+2021-12-31 17:03:48,817  INFO [main] BaseClass:23 - value found for a key
+2021-12-31 17:03:48,817  INFO [main] BaseClass:34 - browser name is chrome
+2021-12-31 17:03:51,252  INFO [main] BaseClass:37 - chrome browser is opened
+2021-12-31 17:03:51,253  INFO [main] BaseClass:13 - reading a property file for a keybrowser
+2021-12-31 17:03:51,254  INFO [main] BaseClass:23 - value found for a key
+2021-12-31 17:03:51,255  INFO [main] BaseClass:13 - reading a property file for a keyurl
+2021-12-31 17:03:51,256  INFO [main] BaseClass:23 - value found for a key
+2021-12-31 17:03:52,458  INFO [main] BaseClass:47 - maximizing browser window
+2021-12-31 17:03:52,498  INFO [main] BaseClass:50 - applying implicitly and pageload waits
+2021-12-31 17:03:52,596  INFO [main] BaseClass:56 - initilizing extent report
+2021-12-31 17:03:52,607  INFO [main] BaseClass:58 - extent report to be saved in target folder
