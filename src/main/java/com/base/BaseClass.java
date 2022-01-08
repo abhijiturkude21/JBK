@@ -70,6 +70,7 @@ public String getScreenshot( String name) {
 		
 		e.printStackTrace();
 	}
+	System.out.println("Github");
 	return path;
 }
 }
